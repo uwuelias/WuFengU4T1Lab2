@@ -17,7 +17,7 @@ public class Main {
         System.out.println(fun.countLetter("babababa", "b"));
         System.out.println(fun.countLetter("excellente", "e"));
         System.out.println(fun.countLetter("rawrrrrrr", "r"));
-/*
+
         System.out.println("-- test maxDoubles --");
         System.out.println(fun.maxDoubles(4, 20));
         System.out.println(fun.maxDoubles(2, 65));
@@ -39,6 +39,5 @@ public class Main {
         System.out.println(fun.isPrime(30));
         System.out.println(fun.isPrime(771));
         System.out.println(fun.isPrime(93243));
-        */
     }
 }
